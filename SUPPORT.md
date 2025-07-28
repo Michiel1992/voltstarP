@@ -1,4 +1,4 @@
-# MyStar Support Guide
+# Voltstar Support Guide
 
 ## Quick Setup
 
@@ -47,7 +47,7 @@
 - Restart your Mac if the issue persists
 
 ### **Q: Is my data secure?**
-**A:** Yes. MyStar uses OAuth2 authentication and stores credentials locally on your Mac. No data is sent to third parties - only to Polestar's official API.
+**A:** Yes. Voltstar uses OAuth2 authentication and stores credentials locally on your Mac. No data is sent to third parties - only to Polestar's official API.
 
 ## Troubleshooting
 
@@ -59,12 +59,12 @@
 ### **Data Not Updating**  
 - Check if your car is connected to cellular/WiFi
 - Verify your Polestar account has an active subscription
-- Try restarting MyStar
+- Try restarting Voltstar
 
 ### **Menu Bar Issues**
 - If the icon disappears: relaunch Voltstar
 - If text is cut off: try a different display option in Settings
-- For display problems: restart MyStar or log out/in
+- For display problems: restart Voltstar or log out/in
 
 ## System Requirements
 
@@ -88,13 +88,13 @@
 
 **Still need help?**
 - **Email**: [Your support email]
-- **GitHub Issues**: https://github.com/[your-username]/MyStar/issues
-- **Include**: macOS version, MyStar version, and description of the issue
+- **GitHub Issues**: https://github.com/[your-username]/Voltstar/issues
+- **Include**: macOS version, Voltstar version, and description of the issue
 
 ## Feedback
 
 We'd love to hear from you! Share your thoughts, suggestions, or feature requests:
-- **GitHub**: https://github.com/[your-username]/MyStar
+- **GitHub**: https://github.com/[your-username]/Voltstar
 - **Email**: [Your contact email]
 
 ---
