@@ -2,7 +2,7 @@
 
 ## Quick Setup
 
-1. **Download and Install** MyStar from the Mac App Store
+1. **Download and Install** Voltstar from the Mac App Store
 2. **Launch** the app - you'll see a car icon in your menu bar
 3. **Click** the menu bar icon and select "Settings"
 4. **Enter** your Polestar account credentials:
@@ -28,7 +28,7 @@
 - In your Polestar account online
 
 ### **Q: The app isn't updating my vehicle data**
-**A:** MyStar updates every 5 minutes automatically. If data seems stale:
+**A:** Voltstar updates every 5 minutes automatically. If data seems stale:
 - Check your internet connection
 - Restart the app (quit and relaunch)
 - Re-enter your credentials if the issue persists
@@ -41,8 +41,8 @@
 - Charging Time
 
 ### **Q: The app icon is missing from my menu bar**
-**A:** If MyStar disappears from your menu bar:
-- Relaunch MyStar from Applications
+**A:** If Voltstar disappears from your menu bar:
+- Relaunch Voltstar from Applications
 - Check if "Launch at Startup" is enabled in Settings
 - Restart your Mac if the issue persists
 
@@ -62,7 +62,7 @@
 - Try restarting MyStar
 
 ### **Menu Bar Issues**
-- If the icon disappears: relaunch MyStar
+- If the icon disappears: relaunch Voltstar
 - If text is cut off: try a different display option in Settings
 - For display problems: restart MyStar or log out/in
 
@@ -81,7 +81,7 @@
 ## Getting Help
 
 **Before contacting support:**
-1. Try restarting MyStar
+1. Try restarting Voltstar
 2. Check your internet connection
 3. Verify credentials in the official Polestar app
 4. Review this support guide
@@ -99,4 +99,4 @@ We'd love to hear from you! Share your thoughts, suggestions, or feature request
 
 ---
 
-*MyStar is not affiliated with Polestar. Polestar is a trademark of their respective owners.*
+*Voltstar is not affiliated with Polestar. Polestar is a trademark of their respective owners.*
