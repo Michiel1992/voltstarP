@@ -1,10 +1,10 @@
-# Privacy Policy for MyStar
+# Privacy Policy for Voltstar
 
 **Last updated: July 28, 2025**
 
 ## Overview
 
-MyStar ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your information when you use the MyStar application for macOS.
+Voltstar ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your information when you use the Voltstar application for macOS.
 
 ## Information We Collect
 
@@ -80,7 +80,7 @@ Through Polestar's official API, we access:
 
 ## Children's Privacy
 
-MyStar is not intended for use by children under 13 years of age. We do not knowingly collect personal information from children under 13.
+Voltstar is not intended for use by children under 13 years of age. We do not knowingly collect personal information from children under 13.
 
 ## Changes to This Privacy Policy
 
@@ -97,19 +97,19 @@ We may update this Privacy Policy from time to time. We will notify users of any
 
 ### API Endpoints
 - Authentication: `polestarid.eu.polestar.com`
-- Vehicle Data: `pc-api.polestar.com/eu-north-1/mystar-v2/`
+- Vehicle Data: `pc-api.polestar.com/eu-north-1/Voltstar-v2/`
 
 ## Contact Information
 
 If you have any questions about this Privacy Policy or our privacy practices, please contact us at:
 
 **Email**: [Your contact email]
-**GitHub**: https://github.com/[your-username]/MyStar
+**GitHub**: https://github.com/[your-username]/Voltstar
 
 ## Disclaimer
 
-MyStar is not affiliated with Polestar. This application is an independent project that uses Polestar's publicly available API. Use of the Polestar API is subject to Polestar's terms of service and privacy policy.
+Voltstar is not affiliated with Polestar. This application is an independent project that uses Polestar's publicly available API. Use of the Polestar API is subject to Polestar's terms of service and privacy policy.
 
 ## Consent
 
-By using MyStar, you consent to the collection and use of information as described in this Privacy Policy.
+By using Voltstar, you consent to the collection and use of information as described in this Privacy Policy.
