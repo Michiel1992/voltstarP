@@ -1,8 +1,8 @@
-# Voltstar Support Guide
+# MyStar Support Guide
 
 ## Quick Setup
 
-1. **Download and Install** Voltstar from the Mac App Store
+1. **Download and Install** MyStar from the Mac App Store
 2. **Launch** the app - you'll see a car icon in your menu bar
 3. **Click** the menu bar icon and select "Settings"
 4. **Enter** your Polestar account credentials:
@@ -28,7 +28,7 @@
 - In your Polestar account online
 
 ### **Q: The app isn't updating my vehicle data**
-**A:** Voltstar updates every 5 minutes automatically. If data seems stale:
+**A:** MyStar updates every 5 minutes automatically. If data seems stale:
 - Check your internet connection
 - Restart the app (quit and relaunch)
 - Re-enter your credentials if the issue persists
@@ -41,13 +41,13 @@
 - Charging Time
 
 ### **Q: The app icon is missing from my menu bar**
-**A:** If Voltstar disappears from your menu bar:
-- Relaunch Voltstar from Applications
+**A:** If MyStar disappears from your menu bar:
+- Relaunch MyStar from Applications
 - Check if "Launch at Startup" is enabled in Settings
 - Restart your Mac if the issue persists
 
 ### **Q: Is my data secure?**
-**A:** Yes. Voltstar uses OAuth2 authentication and stores credentials locally on your Mac. No data is sent to third parties - only to Polestar's official API.
+**A:** Yes. MyStar uses OAuth2 authentication and stores credentials locally on your Mac. No data is sent to third parties - only to Polestar's official API.
 
 ## Troubleshooting
 
@@ -59,12 +59,12 @@
 ### **Data Not Updating**  
 - Check if your car is connected to cellular/WiFi
 - Verify your Polestar account has an active subscription
-- Try restarting Voltstar
+- Try restarting MyStar
 
 ### **Menu Bar Issues**
-- If the icon disappears: relaunch Voltstar
+- If the icon disappears: relaunch MyStar
 - If text is cut off: try a different display option in Settings
-- For display problems: restart Voltstar or log out/in
+- For display problems: restart MyStar or log out/in
 
 ## System Requirements
 
@@ -81,22 +81,22 @@
 ## Getting Help
 
 **Before contacting support:**
-1. Try restarting Voltstar
+1. Try restarting MyStar
 2. Check your internet connection
 3. Verify credentials in the official Polestar app
 4. Review this support guide
 
 **Still need help?**
 - **Email**: [Your support email]
-- **GitHub Issues**: https://github.com/[your-username]/Voltstar/issues
-- **Include**: macOS version, Voltstar version, and description of the issue
+- **GitHub Issues**: https://github.com/[your-username]/MyStar/issues
+- **Include**: macOS version, MyStar version, and description of the issue
 
 ## Feedback
 
 We'd love to hear from you! Share your thoughts, suggestions, or feature requests:
-- **GitHub**: https://github.com/[your-username]/Voltstar
+- **GitHub**: https://github.com/[your-username]/MyStar
 - **Email**: [Your contact email]
 
 ---
 
-*Voltstar is not affiliated with Polestar. Polestar is a trademark of their respective owners.*
+*MyStar is not affiliated with Polestar. Polestar is a trademark of their respective owners.*

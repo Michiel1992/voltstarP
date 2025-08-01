@@ -1,0 +1,569 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXContainerItemProxy section */
+		CC0F0C002E33AA38004B6E18 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = CC0F0BE92E33AA37004B6E18 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = CC0F0BF02E33AA37004B6E18;
+			remoteInfo = MyStar;
+		};
+		CC0F0C0A2E33AA38004B6E18 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = CC0F0BE92E33AA37004B6E18 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = CC0F0BF02E33AA37004B6E18;
+			remoteInfo = MyStar;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		CC0F0BF12E33AA37004B6E18 /* Voltstar.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Voltstar.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		CC0F0BFF2E33AA38004B6E18 /* VoltstarTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = VoltstarTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		CC0F0C092E33AA38004B6E18 /* VoltstarUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = VoltstarUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		CCBE57742E37F242001A9005 /* Voltstar-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = "Voltstar-Info.plist"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		CC0F0BF32E33AA37004B6E18 /* MyStar */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = MyStar;
+			sourceTree = "<group>";
+		};
+		CC0F0C022E33AA38004B6E18 /* MyStarTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = MyStarTests;
+			sourceTree = "<group>";
+		};
+		CC0F0C0C2E33AA38004B6E18 /* MyStarUITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = MyStarUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		CC0F0BEE2E33AA37004B6E18 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CC0F0BFC2E33AA38004B6E18 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CC0F0C062E33AA38004B6E18 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		CC0F0BE82E33AA37004B6E18 = {
+			isa = PBXGroup;
+			children = (
+				CCBE57742E37F242001A9005 /* Voltstar-Info.plist */,
+				CC0F0BF32E33AA37004B6E18 /* MyStar */,
+				CC0F0C022E33AA38004B6E18 /* MyStarTests */,
+				CC0F0C0C2E33AA38004B6E18 /* MyStarUITests */,
+				CC0F0BF22E33AA37004B6E18 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		CC0F0BF22E33AA37004B6E18 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				CC0F0BF12E33AA37004B6E18 /* Voltstar.app */,
+				CC0F0BFF2E33AA38004B6E18 /* VoltstarTests.xctest */,
+				CC0F0C092E33AA38004B6E18 /* VoltstarUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		CC0F0BF02E33AA37004B6E18 /* Voltstar */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = CC0F0C132E33AA38004B6E18 /* Build configuration list for PBXNativeTarget "Voltstar" */;
+			buildPhases = (
+				CC0F0BED2E33AA37004B6E18 /* Sources */,
+				CC0F0BEE2E33AA37004B6E18 /* Frameworks */,
+				CC0F0BEF2E33AA37004B6E18 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				CC0F0BF32E33AA37004B6E18 /* MyStar */,
+			);
+			name = Voltstar;
+			packageProductDependencies = (
+			);
+			productName = MyStar;
+			productReference = CC0F0BF12E33AA37004B6E18 /* Voltstar.app */;
+			productType = "com.apple.product-type.application";
+		};
+		CC0F0BFE2E33AA38004B6E18 /* VoltstarTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = CC0F0C162E33AA38004B6E18 /* Build configuration list for PBXNativeTarget "VoltstarTests" */;
+			buildPhases = (
+				CC0F0BFB2E33AA38004B6E18 /* Sources */,
+				CC0F0BFC2E33AA38004B6E18 /* Frameworks */,
+				CC0F0BFD2E33AA38004B6E18 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				CC0F0C012E33AA38004B6E18 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				CC0F0C022E33AA38004B6E18 /* MyStarTests */,
+			);
+			name = VoltstarTests;
+			packageProductDependencies = (
+			);
+			productName = MyStarTests;
+			productReference = CC0F0BFF2E33AA38004B6E18 /* VoltstarTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		CC0F0C082E33AA38004B6E18 /* VoltstarUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = CC0F0C192E33AA38004B6E18 /* Build configuration list for PBXNativeTarget "VoltstarUITests" */;
+			buildPhases = (
+				CC0F0C052E33AA38004B6E18 /* Sources */,
+				CC0F0C062E33AA38004B6E18 /* Frameworks */,
+				CC0F0C072E33AA38004B6E18 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				CC0F0C0B2E33AA38004B6E18 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				CC0F0C0C2E33AA38004B6E18 /* MyStarUITests */,
+			);
+			name = VoltstarUITests;
+			packageProductDependencies = (
+			);
+			productName = MyStarUITests;
+			productReference = CC0F0C092E33AA38004B6E18 /* VoltstarUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		CC0F0BE92E33AA37004B6E18 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1640;
+				LastUpgradeCheck = 1640;
+				TargetAttributes = {
+					CC0F0BF02E33AA37004B6E18 = {
+						CreatedOnToolsVersion = 16.4;
+					};
+					CC0F0BFE2E33AA38004B6E18 = {
+						CreatedOnToolsVersion = 16.4;
+						TestTargetID = CC0F0BF02E33AA37004B6E18;
+					};
+					CC0F0C082E33AA38004B6E18 = {
+						CreatedOnToolsVersion = 16.4;
+						TestTargetID = CC0F0BF02E33AA37004B6E18;
+					};
+				};
+			};
+			buildConfigurationList = CC0F0BEC2E33AA37004B6E18 /* Build configuration list for PBXProject "Voltstar" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = CC0F0BE82E33AA37004B6E18;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = CC0F0BF22E33AA37004B6E18 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				CC0F0BF02E33AA37004B6E18 /* Voltstar */,
+				CC0F0BFE2E33AA38004B6E18 /* VoltstarTests */,
+				CC0F0C082E33AA38004B6E18 /* VoltstarUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		CC0F0BEF2E33AA37004B6E18 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CC0F0BFD2E33AA38004B6E18 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CC0F0C072E33AA38004B6E18 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		CC0F0BED2E33AA37004B6E18 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CC0F0BFB2E33AA38004B6E18 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CC0F0C052E33AA38004B6E18 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		CC0F0C012E33AA38004B6E18 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = CC0F0BF02E33AA37004B6E18 /* Voltstar */;
+			targetProxy = CC0F0C002E33AA38004B6E18 /* PBXContainerItemProxy */;
+		};
+		CC0F0C0B2E33AA38004B6E18 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = CC0F0BF02E33AA37004B6E18 /* Voltstar */;
+			targetProxy = CC0F0C0A2E33AA38004B6E18 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		CC0F0C112E33AA38004B6E18 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MACOSX_DEPLOYMENT_TARGET = 15.5;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		CC0F0C122E33AA38004B6E18 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MACOSX_DEPLOYMENT_TARGET = 15.5;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = macosx;
+				SWIFT_COMPILATION_MODE = wholemodule;
+			};
+			name = Release;
+		};
+		CC0F0C142E33AA38004B6E18 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				"ASSETCATALOG_COMPILER_APPICON_NAME[sdk=macosx*]" = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = YES;
+				CODE_SIGN_ENTITLEMENTS = MyStar/MyStar.entitlements;
+				CODE_SIGN_IDENTITY = "Apple Distribution";
+				CODE_SIGN_STYLE = Manual;
+				COMBINE_HIDPI_IMAGES = YES;
+				CURRENT_PROJECT_VERSION = 4;
+				DEVELOPMENT_TEAM = ZY6CC9DB5S;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "Voltstar-Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = Voltstar;
+				INFOPLIST_KEY_ITSAppUsesNonExemptEncryption = NO;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.utilities";
+				INFOPLIST_KEY_LSUIElement = YES;
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				MACOSX_DEPLOYMENT_TARGET = 14.6;
+				MARKETING_VERSION = 1.2;
+				PRODUCT_BUNDLE_IDENTIFIER = com.lumi.Voltstar;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				REGISTER_APP_GROUPS = YES;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+		CC0F0C152E33AA38004B6E18 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				"ASSETCATALOG_COMPILER_APPICON_NAME[sdk=macosx*]" = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = YES;
+				CODE_SIGN_ENTITLEMENTS = MyStar/MyStar.entitlements;
+				CODE_SIGN_IDENTITY = "Apple Distribution";
+				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "Apple Distribution";
+				CODE_SIGN_STYLE = Manual;
+				COMBINE_HIDPI_IMAGES = YES;
+				CURRENT_PROJECT_VERSION = 4;
+				DEVELOPMENT_TEAM = ZY6CC9DB5S;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "Voltstar-Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = Voltstar;
+				INFOPLIST_KEY_ITSAppUsesNonExemptEncryption = NO;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.utilities";
+				INFOPLIST_KEY_LSUIElement = YES;
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				MACOSX_DEPLOYMENT_TARGET = 14.6;
+				MARKETING_VERSION = 1.2;
+				PRODUCT_BUNDLE_IDENTIFIER = com.lumi.Voltstar;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				REGISTER_APP_GROUPS = YES;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+			};
+			name = Release;
+		};
+		CC0F0C172E33AA38004B6E18 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 15.5;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = pl.MyStarTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Voltstar.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Voltstar";
+			};
+			name = Debug;
+		};
+		CC0F0C182E33AA38004B6E18 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 15.5;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = pl.MyStarTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Voltstar.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Voltstar";
+			};
+			name = Release;
+		};
+		CC0F0C1A2E33AA38004B6E18 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = pl.MyStarUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TEST_TARGET_NAME = MyStar;
+			};
+			name = Debug;
+		};
+		CC0F0C1B2E33AA38004B6E18 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = pl.MyStarUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TEST_TARGET_NAME = MyStar;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		CC0F0BEC2E33AA37004B6E18 /* Build configuration list for PBXProject "Voltstar" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CC0F0C112E33AA38004B6E18 /* Debug */,
+				CC0F0C122E33AA38004B6E18 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		CC0F0C132E33AA38004B6E18 /* Build configuration list for PBXNativeTarget "Voltstar" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CC0F0C142E33AA38004B6E18 /* Debug */,
+				CC0F0C152E33AA38004B6E18 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		CC0F0C162E33AA38004B6E18 /* Build configuration list for PBXNativeTarget "VoltstarTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CC0F0C172E33AA38004B6E18 /* Debug */,
+				CC0F0C182E33AA38004B6E18 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		CC0F0C192E33AA38004B6E18 /* Build configuration list for PBXNativeTarget "VoltstarUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CC0F0C1A2E33AA38004B6E18 /* Debug */,
+				CC0F0C1B2E33AA38004B6E18 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = CC0F0BE92E33AA37004B6E18 /* Project object */;
+}
