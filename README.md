@@ -6,7 +6,7 @@ A macOS menu bar application for monitoring your Polestar electric vehicle in re
 
 <img width="284" height="414" alt="screen2" src="https://github.com/user-attachments/assets/8431f3db-45a0-440e-b688-44fbb4396c29" />
 
-Download the release on github
+Download the release on github, buy me a coffee if you like the project!
 
 ## Features
 
