@@ -1,4 +1,4 @@
-# MyStar
+# VoltStar
 
 A macOS menu bar application for monitoring your Polestar electric vehicle in real-time.
 
