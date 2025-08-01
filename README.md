@@ -2,7 +2,7 @@
 
 A macOS menu bar application for monitoring your Polestar electric vehicle in real-time.
 
-![Alt text](assets.screen2.png?raw=true "Title")
+<img width="284" height="414" alt="screen2" src="https://github.com/user-attachments/assets/8431f3db-45a0-440e-b688-44fbb4396c29" />
 
 ## Features
 
@@ -18,6 +18,7 @@ A macOS menu bar application for monitoring your Polestar electric vehicle in re
 - **Auto-refresh**: Updates vehicle data every 5 minutes
 - **Launch at Startup**: Optional automatic startup with macOS
 - **Settings Panel**: Easy configuration of credentials and display preferences
+
 
 ## Requirements
 
